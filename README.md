@@ -3,6 +3,8 @@
 ## Synopsis
 This custom desktop shortcut was created since coder currently can't start a workspace that is turned off, and will then run into an error if you just try to start code server using the normal chrome pwa. This shortcut fixes this by using the coderc cli to start the workspace before launching chrome.
 
+This has been tested with Zorin OS 16 (Ubuntu 20.04).
+
 ## Requierments:
 - A Coder.com instance
 - The [Coder CLI](github.com/cdr/coder-cli/)
