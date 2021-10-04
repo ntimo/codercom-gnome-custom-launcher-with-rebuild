@@ -12,7 +12,7 @@ This has been tested with Zorin OS 16 (Ubuntu 20.04).
 ## Install guide
 - Install the Coder CLI if not done already
 - Login to coder using `coder login` in your terminal
-- Start google chrome and setup the normal PWA for code server using coder [docs link with how to]()
+- Start google chrome and setup the normal PWA for code server using coder [docs link with how to](https://coder.com/docs/coder/v1.23/workspaces/pwa)
 - Grep the chrome app id from the .desktop file chrome created in `~/.local/share/applications/chrome*.desktop` the file will list `NAME=coder`
 - Find a nice looking VSCode icon on google and download it to `~/.local/share/icons/coder.png`
 - Copy the desktop file from this repo to `~/.local/share/applications/VSCode.desktop`
